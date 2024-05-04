@@ -1,0 +1,298 @@
+{
+    "AllFlowers":[
+    {
+        "name":"Aconite",
+        "description":"Aconite flowers are also known as winter aconite. They spread easily and can be planted as tubers or seeds. Aconite is often found growing in patches and is spring’s first flower",
+        "rating":3.5,
+        "price":250,
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/aconite.jpg"
+    },
+    {
+        "name":"Ageratum",
+        "description":"Ageratum is a tough plant that is a favorite for many gardens. These beautiful blue annuals are known for their powder puff blooms.",
+        "rating":4,
+        "price":300,
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/ageratum.jpg"
+    },
+    {
+        "name":"Allium",
+        "description":"Allium is also known as flowering onion. This plant grows from a bulb or from seed and produces globes of purple clusters of flowers atop long stems.",
+        "rating":3,
+        "price":400,
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/allium.jpg"
+    },
+    {
+        "name":"Alstroemeria",
+        "description":"Alstroemeria is a flower commonly used in floral arrangements due to its variation in colors and its ability to be dyed. Their blooms make it easy for florists to create bouquets such as “100 blooms.”",
+        "rating":4,
+        "price":320,
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/alstromeria.jpg"
+    },
+    {
+        "name":"Amaryllis",
+        "description":"Amaryllis flowers are one of the easiest to grow. They do very well indoors or out and come in a variety of colors. Try to plant the largest bulbs you can find because larger bulbs mean more flowers!",
+        "rating":4.5,
+        "price":340,
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/amarylis.png"
+    },
+    {
+        "name":"Anemone",
+        "description":"Anemone is also known as windflower. These tuberous flowers produce poppy-like blooms in early-to-mid spring and come in a variety of colors ranging from white to red and purple. Anemone is a buttercup.",
+        "rating":5,
+        "price":120,
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/anemone.jpg"
+    },
+    {
+        "name":"Angelica",
+        "description":"Angelica is a tall, hardy biennial herb with stalks that can be candied and used on cakes or cookies. It produces green foliage in the first year and flowers in the second.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/angelica.jpg"
+    },
+    {
+        "name":"Angelonia",
+        "description":"Angelonia is also known as summer snapdragon. It is a fairly new plant that has only been around since the late 1990s. Angelonia is a tough perennial and stands up to heat with no problem.",
+        "rating":4.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/angelonia.jpg"
+    },
+    {
+        "name":"Artemisia",
+        "description":"Artemisia is a perennial plant that is grown more for its silvery, white foliage than for the small, white flowers; however, it makes an excellent backdrop for more showy flowers in a perennial bed.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/artemisia.jpg"
+    },
+    {
+        "name":"Aster",
+        "description":"Aster blooms in late summer to early fall when many other perennials have faded. They range from varieties that skim the ground to those towering 6 feet high. The daisy-like flowers come in many colors; the most common shades are purple, lavender, pink, red, blue, and white.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/aster.jpg"
+    },
+    {
+        "name":"Astilbe",
+        "description":"Astilbe is known for being a graceful flower that does well in cooler climates in the northern third of the country. It can tolerate full sun as long as it has a constant supply of moisture.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/astilbe.jpg"
+    },
+    {
+        "name":"Aubrieta",
+        "description":"Aubrieta is named after the French artist who made them famous from his paintings. They are perfect for rock gardens.",
+        "rating":3.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/aubrieta.jpg"
+    },
+    {
+        "name":"Alyssum",
+        "description":"Alyssum is classified as a perennial, this plant is grown as an annual in cold climates. Its tiny clusters of blooms are attractive at the edge of a bed or in pots with geraniums or other annuals.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/alyssum.jpg"
+    },
+    {
+        "name":"Azalea",
+        "description":"Azaleas are a type of rhododendrons.  They come in a range of colors, including pink, white, purple, and other beautiful shades. These shrubs can make a beautiful addition to your garden.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2019/04/azalea.jpg"
+    },
+    {
+        "name":"Balloon Flower",
+        "description":"Balloon Flower",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/balloon-flower.jpg"
+    },
+    {
+        "name":"Balsam",
+        "description":"Balsam Is an old-fashioned annual that was a favorite of Victorian gardens. These impatiens are also known as the touch-me-not flower.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/balsam.jpg"
+    },
+    {
+        "name":"Baneberry",
+        "description":"Baneberry is a white, fluffy flower that produces ornamental and poisonous red berries. It’s perfect for cool areas.",
+        "rating":4.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/baneberry.jpg"
+    },
+    {
+        "name":"Bellflower plant",
+        "description":"Bellflowers are known for their resemblance to bells and are also called Campanula. These flowers come in many sizes and varieties.",
+        "rating":3.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/bellflower.jpg"
+    },
+    {
+        "name":"Bergenia",
+        "description":"Bergenia is also known as pigsqueak due to the sound their leaves make when rubbed together. The flower blooms in a beautiful array of pink, rose, and white and is native to central Asia.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/bergenia.jpg"
+    },
+    {
+        "name":"Bloodroot",
+        "description":"Bloodroot is named for its red-colored sap that flows from the stem when cut. It was originally used as war paint by Native Americans and is also known for its medicinal qualities.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/bloodroot.jpg"
+    },
+    {
+        "name":"Caladium",
+        "description":"Caladium is a tropical plant with clumping, heart-shaped leaves that are available in a variety of colors. They are also known as Heart of Jesus, as well as Elephant Ear and Angel Wings. ",
+        "rating":4.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/caladium.jpg"
+    },
+    {
+        "name":"Calendula",
+        "description":"Calendula is grown mainly for cut flowers, but it can also be used as an herb. They come in a variety of yellow and orange colors. It is also known as pot marigold and often sold as a cream or in oil form.",
+        "rating":4.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/calendula.jpg"
+    },
+    {
+        "name":"California Poppy",
+        "description":"The California Poppy is a wildflower native to both the United States and Mexico. These flowers can add a pop of color to dry, hot areas. In addition, they are used as a supplement to treat a variety of sleep-related issues such as insomnia.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/california-poppy.jpg"
+    },
+    {
+        "name":"Calla Lily",
+        "description":"Calla lilies are hardy plants that grow in full sun or partial shade. They’re available in various colors, with classic white making an elegant gift or addition to your home. Learn more about how to plant call lily flowers on our guide.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/calla-lily-white.jpg"
+    },
+    {
+        "name":"Canterbury Bells",
+        "description":"Canterbury Bells is an older flower known for its beautiful colors, a very common flower found in England. It is an annual or biennial flower and feature bell-shaped blooms in colors ranging from pink to purple and white.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/canterbury-bells.jpg"
+    },
+    {
+        "name":"Daisy",
+        "description":"The daisy is an easy to grow flower that is instantly recognizable. Brightly-colored Gerbera daisies are our absolute favorites, but there are numerous other types of daisies.",
+        "rating":3.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/daisy.jpg"
+    },
+    {
+        "name":"Dame’s Rocket",
+        "description":"Dame’s Rocket is found in white and violet, this flower is easy to grow and can spread quickly in the right conditions. It is both fragrant and edible, however, it’s also extremely invasive.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/dames-rocket.jpg"
+    },
+    {
+        "name":"Delphinium",
+        "description":"Delphinium is also known as Larkspur. They appear in long stalks of pink, blue, white, and purple and are perennial.",
+        "rating":3.5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/delphinium.jpg"
+    },
+    {
+        "name":"Dianthus",
+        "description":"Dianthus are uniquely scented, with pink, purple, and white blooms. This flower is easy to grow and is often found in wedding bouquets. It’s also known as a Pink flower.",
+        "rating":4,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/dianthus.jpg"
+    },
+    {
+        "name":"Diascia",
+        "description":"The Diascia plant produces a delicate pink flower that has become popular because it can be planted so early in the spring. It’s also known as Twinspur.",
+        "rating":5,
+        "price":"",
+        "img":"https://www.flowerglossary.com/wp-content/uploads/2017/09/diascia.jpg"
+    }],
+    "anniversary":[
+        {
+            "name":"Lily of the Valley",
+            "description":"Marking the second anniversary, the Lily of the Valley beautifully embodies the blooming love that has gracefully matured over two years. This milestone, also known as the cotton anniversary, signifies the creation of a solid and flexible partnership. Like the interweaving threads in cotton fabric, your lives have entwined to create a beautiful shared story.",
+            "rating":4.5,
+            "price":"",
+            "img":"https://static.euroflorist.com/img/scale/720/720/magnolia/jcr:cbfb8e19-b725-4fdd-b54c-2cd184481281/genericcontentblock120.jpg"
+        },
+        {
+            "name":"Geraniums",
+            "description":"Marking the fourth anniversary, geraniums wonderfully signify the growth, friendship, and affection that have flourished over these years. The fruit and flowers anniversary, as it's fondly called, represents the abundant harvest of love and the nourishment vital for a thriving partnership, akin to the blossoming of fruits and flowers.",
+            "rating":5,
+            "price":"",
+            "img":"https://static.euroflorist.com/img/scale/720/720/magnolia/jcr:de653a89-d72d-4a83-a98f-6d1d2725f6de/genericcontentblock100%20(1).jpg"
+        },
+        {
+            "name":"Calla Lilies",
+            "description":"This celebration is beautifully embodied in the elegant Calla Lily, a flower that mirrors the beauty, purity, and commitment that have blossomed over six magnificent years.",
+            "rating":4,
+            "price":"",
+            "img":"https://static.euroflorist.com/img/scale/720/720/magnolia/jcr:451ea016-1883-44e3-85a1-61802ce74d40/screen-august_studio_shoot_2023_scanda_230.jpg"
+        }
+    ],
+    "Valentines":
+    [
+        {
+            "name":"Red Roses",
+            "description":"Always counted among the best Valentine’s Day gifts, roses are the quintessential flower to present to someone you love. The red variety is known as the lover’s rose. A multicolored rose bouquet could hold several meanings, however. White roses signify humility and innocence; yellow roses mean friendship and joy; pink roses tell a tale of gratitude, appreciation, or admiration; and purple roses are for someone who enchants you or you fell in love with at first sight.",
+            "rating":5,
+            "price":"",
+            "img":"https://www.bhg.com/thmb/CCkKHHX5DdT9auPbe9fLv1Ph93o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/popular-vday-flowers-red-roses-b571288385934e02b9f6bd9ddeef390a.jpg"
+        },
+        {
+            "name":"Pink Peonies",
+            "description":"Peonies come in many colors and varieties and are the flower of riches and honor. The lush, full blooms embody romance, prosperity, and good fortune. The peony flower meaning makes them a perfect addition to a Valentine’s Day flower arrangement or 12th wedding anniversary bouquet.",
+            "rating":4.5,
+            "price":"",
+            "img":"https://www.bhg.com/thmb/EDdRgL4220fj_VhmCjxRxdvKwMY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/arranging-peonies-glass-pitcher-2ede7dfc-f5a6c91a9f784d18bbb862ea8271413d.jpg"
+        },
+        {
+            "name":"White Daisies",
+            "description":"The white petals of daisies signify loyal love, purity, beauty, innocence, patience, and simplicity. The classic white daisy is also associated with humility. Daisies are an ideal flower in a bouquet for your partner on your 5th anniversary.",
+            "rating":4.5,
+            "price":"",
+            "img":"https://www.bhg.com/thmb/Dzncr1Yo64NZ9qtYc-wF7tSQjuY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/popular-vday-flowers-white-daisies-97432aa73baa474691c98c234c7e355b.jpg"
+        },
+        {
+            "name":"Red Tulips",
+            "description":"Tulips represent elegance and grace, but red tulips are one of the most romantic flowers—their meaning is perfect love. The story goes that the black center of the flower represents a lover’s heart, darkened by the heat of passion. Stick with red tulips for a romantic bouquet.",
+            "rating":3.5,
+            "price":"",
+            "img":"https://www.bhg.com/thmb/DVCeo5JayBLZtYcbGkf_leMbz_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tulipa-greigii-rob-verlinden-2a2ad996-35bfebadfb464f45a99379af47c83b7f.jpg"
+        }
+    ],
+    "Wedding":
+    [
+        {
+            "name":"Rose",
+            "description":"Roses are beautiful, fragrant and versatile, which contributes to their status as the most popular wedding flower of all time. From their use as flowers for bridal bouquets to dramatic ceremony arches, there's room for roses in just about every part of a wedding,",
+            "rating":5,
+            "price":"",
+            "img":"https://media-api.xogrp.com/images/828dcd4e-dabb-4b13-9e15-6ab5909c982f~rs_768.h-cr_0.147.1875.1553"
+        },
+        {
+            "name":"Ranunculus",
+            "description":"Ranunculus is beloved as a wedding flower because of how lush the botanical's petal structure is. A standard ranunculus is seen here, but butterfly ranunculus, which has a more open petal structure, is another popular variety. Beyond coming in a few different shape varieties, ranunculus comes in a range of colors including burgundy, peach, pink, red, white and yellow.",
+            "rating":4,
+            "price":"",
+            "img":"https://media-api.xogrp.com/images/a4d96863-6c62-4529-b701-092084114207~rs_768.h-cr_0.247.1875.1653"
+        },
+        {
+            "name":"Peony",
+            "description":"If you want a voluminous, lush flower with cloud-like petals then the peony is your ideal type of wedding flower. Although the flower can be pricey and hard to procure because it has a limited growing season, it isn't hard to see why so many couples believe it is one of the best wedding flowers. ",
+            "rating":5,
+            "price":"",
+            "img":"https://media-api.xogrp.com/images/1f33744f-ae05-46d2-8193-fc9713041902~rs_768.h-cr_0.147.1875.1553"
+        },
+        {
+            "name":"Hydrangea",
+            "description":"Hydrangea is another popular wedding flower if you want something full and pillowy. White hydrangeas are often used as flowers for bridal bouquets, but the botanical comes in blue and green as well which look stunning in flower installations, like arches and flower wall backdrops.",
+            "rating":4.5,
+            "price":"",
+            "img":"https://media-api.xogrp.com/images/6d099c67-3f3c-403f-a750-28eca52be3cf~rs_768.h-cr_0.420.1875.1826"
+        }
+    ]
+}
