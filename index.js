@@ -4,6 +4,16 @@ const express = require('express')
 const app = express();
 const flower=require('./router/flower');
 const connect=require('./connectdb');
+const cors=require('cors');
+
+const corsOptions={
+    origin: '*',
+    credentials: true,
+    optionSuccessStatus:200
+}
+
+
+app.use(cors(corsOptions));
 
 app.use('/api', flower);
 
@@ -11,7 +21,7 @@ app.get('/', (req, res) => {
     res.send("<h1>Home page</h1>")
 })
 
-connect();
+connect(process.env.DATABASE_URI);
 
 const server = async () => {
     try {
