@@ -12,4 +12,4 @@ const keepData=async ()=>{
     }
 }
 
-keepData();
+module.exports = keepData;
